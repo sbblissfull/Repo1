@@ -1,4 +1,4 @@
-name: github-actions
+name: SBONAILI-INSTALL-UBANTU-NodeJS-BATS-github-actions
 on: [push]
 jobs:
   check-bats-version:
